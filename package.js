@@ -1,12 +1,11 @@
 Package.describe({
-  summary: "jax pack"
+  summary: "jax pack: tquery and physi"
 });
 
 Package.on_use(function (api) {
+	api.use('three.js','client');
   api.add_files([
-  'lib/three.js',
-	'lib/tquery-bundle-require.js',  
-'lib/tquery.js',
+'lib/tquery.js'
   'lib/physi.js'
   ], 'client'
   );
