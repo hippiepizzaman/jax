@@ -3,7 +3,7 @@
   "description": "jax pack - tquery and physi",
   "homepage": "https://github.com/hippiepizzaman/jax",
   "author": "Erock",  
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/hippiepizzaman/jax.git",
   "packages": {}
 }
