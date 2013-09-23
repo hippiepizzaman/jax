@@ -1,0 +1,8 @@
+{
+  "name": "jax",
+  "description": "jax pack",
+  "homepage": "https://github.com/hippiepizzaman/jax",  
+  "version": "0.0.1",
+  "git": "https://github.com/hippiepizzaman/jax.git",
+  "packages": {}
+}
